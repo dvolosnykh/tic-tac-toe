@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>board.svg</file>
+        <file>circle.svg</file>
+        <file>cross.svg</file>
+        <file>Board.qml</file>
+        <file>ConnectionSettings.qml</file>
+        <file>FirstSelector.qml</file>
+        <file>MainWindow.qml</file>
+        <file>MarkerSelector.qml</file>
+        <file>utils.js</file>
+        <file>computer.svg</file>
+        <file>human.svg</file>
+    </qresource>
+</RCC>

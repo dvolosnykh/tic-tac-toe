@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+	<g stroke="black" stroke-width="10" stroke-linecap="round">
+   		<line x1="10" y1="100" x2="290" y2="100" />
+   		<line x1="10" y1="200" x2="290" y2="200" />
+   		<line x1="100" y1="10" x2="100" y2="290" />
+   		<line x1="200" y1="10" x2="200" y2="290" />
+   	</g>
+</svg>
